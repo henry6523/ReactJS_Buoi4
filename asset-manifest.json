@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactJS_Buoi4/static/css/main.d5289b2f.css",
+    "main.js": "/ReactJS_Buoi4/static/js/main.a0deeacb.js",
+    "index.html": "/ReactJS_Buoi4/index.html",
+    "main.d5289b2f.css.map": "/ReactJS_Buoi4/static/css/main.d5289b2f.css.map",
+    "main.a0deeacb.js.map": "/ReactJS_Buoi4/static/js/main.a0deeacb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.a0deeacb.js"
+  ]
+}
